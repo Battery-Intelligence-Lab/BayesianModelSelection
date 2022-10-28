@@ -17,6 +17,7 @@ This work has been submitted to IFAC for possible publication.
 - PyTorch
 - GPyTorch
 - BoTorch
+- funcTorch
 
 ## Cite as
 
