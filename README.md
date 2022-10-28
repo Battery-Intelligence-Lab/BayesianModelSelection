@@ -11,7 +11,7 @@ This work has been submitted to IFAC for possible publication.
 - fast Bayesian inference via Bayesian quadrature
 - Simultaneous inference of Bayesian model evidence and posterior
 - GPU acceleration
-- Cononical equivalent circuit model (ECM)
+- Canonical equivalent circuit model (ECM)
 - Statistical analysis computation of the ECM
 
 ## Requirements
