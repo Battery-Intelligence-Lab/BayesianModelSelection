@@ -22,7 +22,7 @@ This work has been submitted to IFAC for possible publication.
 
 Please cite this work as
 ```
-@article{adachi2022Bayesian,
+@article{adachi2022bayesian,
   title={Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature},
   author={Adachi, Masaki and Kuhn, Yannick and Horstmann, Birger and Osborne, Michael A. and Howey, David A.},
   journal={arXiv},
