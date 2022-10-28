@@ -5,7 +5,7 @@ This repository contains the python code that was presented for the following pa
 Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature, arXiv, 2022
 
 This work has been submitted to IFAC for possible publication.
-![plot](./BayesianModelSelection.png)
+![plot](./overview.png)
 
 ## Features
 - fast Bayesian inference via Bayesian quadrature
