@@ -36,3 +36,13 @@ Please cite this work as
   doi = {10.48550/ARXIV.2210.17299},
 }
 ```
+Also please consider to cite this work as well.
+```
+@article{adachi2022fast,
+  title={Fast {B}ayesian Inference with Batch {B}ayesian Quadrature via Kernel Recombination},
+  author={Adachi, Masaki and Hayakawa, Satoshi and J{\o}rgensen, Martin and Oberhauser, Harald and Osborne, Michael A},
+  journal={Advances in neural information processing systems (NeurIPS)},
+  volume={35},
+  year={2022},
+}
+```
