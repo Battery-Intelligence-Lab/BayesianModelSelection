@@ -1,10 +1,14 @@
 # BayesianModelSelection
-This repository contains the python code that was presented for the following paper.
+This repository contains the python code that was presented for the following paper, which has been submitted to IFAC for possible publication.
 
 [1] Adachi, M., Kuhn, Y., Horstmann, B., Osborne, M. A., Howey, D. A. 
 Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature, arXiv, 2022[https://arxiv.org/abs/2210.17299]
 
-This work has been submitted to IFAC for possible publication.
+This work is based on the following paper, the link to its repository is [here](https://github.com/ma921/BASQ)
+
+[2] Adachi, M., Hayakawa, S., Jørgensen, M., Oberhauser, H., Osborne, M. A.,
+Fast Bayesian Inference with Batch Bayesian Quadrature via Kernel Recombination, NeurIPS 35, 2022 [https://arxiv.org/abs/2206.04734]
+
 ![plot](./overview.png)
 
 ## Features
