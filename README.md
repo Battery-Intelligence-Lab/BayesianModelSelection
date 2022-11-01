@@ -20,6 +20,10 @@ This work has been submitted to IFAC for possible publication.
 - BoTorch
 - functorch
 
+## Getting started
+Open "ECM_model_selection.ipynb".
+This will give you a step-by-step introduction.
+
 ## Cite as
 
 Please cite this work as
