@@ -7,7 +7,7 @@ Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature, 
 This work is based on the following paper, the link to its repository is [here](https://github.com/ma921/BASQ)
 
 [2] Adachi, M., Hayakawa, S., Jørgensen, M., Oberhauser, H., Osborne, M. A.,
-Fast Bayesian Inference with Batch Bayesian Quadrature via Kernel Recombination, NeurIPS 35, 2022 [https://arxiv.org/abs/2206.04734]
+Fast Bayesian Inference with Batch Bayesian Quadrature via Kernel Recombination, NeurIPS 35, 2022 [link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/697200c9d1710c2799720b660abd11bb-Abstract-Conference.html)
 
 ![plot](./overview.png)
 
