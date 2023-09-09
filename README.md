@@ -11,6 +11,11 @@ Fast Bayesian Inference with Batch Bayesian Quadrature via Kernel Recombination,
 
 ![plot](./overview.png)
 
+## News
+Recently we have published a new method that achieves faster convergence.
+https://github.com/ma921/SOBER
+Try it out the tutorial 05 for comparing.
+
 ## Features
 - fast Bayesian inference via Bayesian quadrature
 - Simultaneous inference of Bayesian model evidence and posterior
