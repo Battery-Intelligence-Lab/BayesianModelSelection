@@ -1,5 +1,5 @@
 # BayesianModelSelection
-This repository contains the python code that was presented for the following paper, which has been submitted to IFAC for possible publication.
+This repository contains the python code that was presented for the IFAC.
 
 [1] Adachi, M., Kuhn, Y., Horstmann, B., Osborne, M. A., Howey, D. A. 
 Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature, arXiv, 2022[https://arxiv.org/abs/2210.17299]
