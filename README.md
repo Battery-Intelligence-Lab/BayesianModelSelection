@@ -1,15 +1,10 @@
 # BayesianModelSelection
 This repository contains the python code that was presented for the IFAC.
 
-[1] Adachi, M., Kuhn, Y., Horstmann, B., Osborne, M. A., Howey, D. A. 
-Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature, arXiv, 2022[https://arxiv.org/abs/2210.17299]
+Adachi, M., Kuhn, Y., Horstmann, B., Osborne, M. A., Howey, D. A. 
+Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature, IFAC 2023 [link](https://doi.org/10.1016/j.ifacol.2023.10.1073)
 
-This work is based on the following paper, the link to its repository is [here](https://github.com/ma921/BASQ)
-
-[2] Adachi, M., Hayakawa, S., Jørgensen, M., Oberhauser, H., Osborne, M. A.,
-Fast Bayesian Inference with Batch Bayesian Quadrature via Kernel Recombination, NeurIPS 35, 2022 [link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/697200c9d1710c2799720b660abd11bb-Abstract-Conference.html)
-
-![plot](./overview.png)
+This work is based on the BASQ [repository](https://github.com/ma921/BASQ)
 
 ## News
 Recently we have published a new method that achieves faster convergence.
@@ -37,21 +32,26 @@ This will give you a step-by-step introduction.
 
 Please cite this work as
 ```
-@misc{adachi2022bayesian,
-  title={Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature},
-  author={Adachi, Masaki and Kuhn, Yannick and Horstmann, Birger and Osborne, Michael A. and Howey, David A.},
-  publisher = {arXiv},
-  year={2022}
-  doi = {10.48550/ARXIV.2210.17299},
+@article{adachi2023bayesian,
+  title={Bayesian model selection of lithium-ion battery models via {B}ayesian quadrature},
+  author={Adachi, Masaki and Kuhn, Yannick and Horstmann, Birger and Latz, Arnulf and Osborne, Michael A and Howey, David A},
+  journal={IFAC-PapersOnLine},
+  volume={56},
+  number={2},
+  pages={10521--10526},
+  year={2023},
+  doi={https://doi.org/10.1016/j.ifacol.2023.10.1073},
+  publisher={Elsevier}
 }
 ```
 Also please consider to cite this work as well.
 ```
 @article{adachi2022fast,
-  title={Fast {B}ayesian Inference with Batch {B}ayesian Quadrature via Kernel Recombination},
+  title={Fast {B}ayesian inference with batch {B}ayesian quadrature via kernel recombination},
   author={Adachi, Masaki and Hayakawa, Satoshi and J{\o}rgensen, Martin and Oberhauser, Harald and Osborne, Michael A},
-  journal={Advances in neural information processing systems (NeurIPS)},
+  journal={Advances in Neural Information Processing Systems},
   volume={35},
-  year={2022},
+  doi={https://doi.org/10.48550/arXiv.2206.04734},
+  year={2022}
 }
 ```
