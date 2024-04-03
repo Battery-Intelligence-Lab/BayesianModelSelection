@@ -6,6 +6,9 @@ Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature, 
 
 This work is based on the BASQ [repository](https://github.com/ma921/BASQ)
 
+![Animate](./overview.png)
+
+
 ## News
 Recently we have published a new method that achieves faster convergence.
 https://github.com/ma921/SOBER <br>
